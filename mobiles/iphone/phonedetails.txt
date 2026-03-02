@@ -1,2 +1,9 @@
 my phone is iphone
 features 256gb ram 32gb rom
+
+phone capacity 100w charger
+battery 5000mah 
+camera 108mp
+display 6.5 inch amoled
+processor a14 bionic
+
