@@ -7,3 +7,4 @@ camera 108mp
 display 6.5 inch amoled
 processor a14 bionic
 
+phone capacity 100w charger
